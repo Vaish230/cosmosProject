@@ -25,7 +25,6 @@ cd cosmosProject
 # Backend setup
 cd server
 npm install
-cp .env.example .env   # Add MONGODB_URI and JWT_SECRET
 npm run dev
 
 # Frontend setup (new terminal)
