@@ -1,0 +1,55 @@
+# Dependencies
+
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+
+.env
+.env.local
+.env.production
+.env.development
+
+# Build outputs
+
+dist/
+build/
+out/
+.next/
+
+# Logs
+
+_.log
+npm-debug.log_
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+
+.vscode/
+.idea/
+_.swp
+_.swo
+\*~
+
+# OS
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MongoDB data (if local)
+
+data/
+mongodb-data/
+
+# Temporary files
+
+_.tmp
+_.temp
+
+# Coverage (if testing)
+
+coverage/
+.nyc_output/
