@@ -34,7 +34,4 @@ npm run dev
 
 Open: http://localhost:5173
 
-PORT=5000
-MONGODB_URI=mongodb+srv://vaishnavi230906_db_user:j9f0Al7xZwXmmdYc@cosmoo.rxarvir.mongodb.net/cosmos_video?retryWrites=true&w=majority&appName=cosmoo
-JWT_SECRET=mysecretkey123
-CLIENT_URL=http://localhost:5173
+
